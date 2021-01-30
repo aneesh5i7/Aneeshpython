@@ -1,0 +1,5 @@
+a=int(input('Enter'))
+b=int(input('Enter'))
+print('Addition value is :-',a+b)
+print('Subraction value is :-',a-b)
+print('Multiplicatio value is :-',a*b)
